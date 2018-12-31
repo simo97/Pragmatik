@@ -26,3 +26,7 @@ Actually there is a lot of way out there to build a website, using frameworks, C
 ## Contribute
 
 # **WIP**
+
+--------------- WORK IN PROGRESS -----------------
+
+Am also open to new ideas about it.
