@@ -29,6 +29,12 @@ Actually there is a lot of way out there to build a website, using frameworks, C
 * Section creation
 * Pages inheritance system
 * i18n
+* pre-built pages : Service, Gallery, Testimony page, contact page, pricing plan, FAQ, etc.
+
+## Roadmap
+- Fully working cloud version
+- Docker deployment
+
 
 ## Contribute
 
