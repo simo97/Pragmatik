@@ -31,10 +31,14 @@ Actually there is a lot of way out there to build a website, using frameworks, C
 * i18n
 * pre-built pages : Service, Gallery, Testimony page, contact page, pricing plan, FAQ, etc.
 * Image management and serving (logo, etc)
+* 
 
 ## Roadmap
 - Fully working cloud version
 - Docker deployment
+- Plug-in system : (like tweeter's feed integration,...).
+- Basic data processing like form handling ( Contact-form management, comment per pages, quiz creation, etc)
+- Workflow (checkout process as a workflow for example)
 
 
 ## Contribute
