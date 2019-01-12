@@ -21,9 +21,20 @@ Actually there is a lot of way out there to build a website, using frameworks, C
 * fetch this content from the REST API 
 * Display them as you want, with you client (react, Vue.js, Angular ).
 
-## API
+## Features list
+* Page manegement
+* Menu management
+* Page's content dynamically serve like publi-posting
+* Page widget creation (in CMS)
+* Section creation
+* Pages inheritance system
+* i18n
 
 ## Contribute
+
+* Fork this repo 
+* Create a branch name like ```branch-[FEATURE_NAME]```
+* Make a PR
 
 # **WIP**
 
